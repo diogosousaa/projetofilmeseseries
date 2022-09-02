@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:navy;
+    text-align: center;
+}
+
+h2{ 
+    font-size: 30px;
+    text-align: center;
+    color:blue
+    
+}
+
+
+
+#netmovies{
+   text-align: center;
+   width: 708px; 
+   height: 507px;
+}
+
+#pluto{
+    text-align: center;
+    width: 708px; 
+    height: 507px;
+
+}
+
+#vixcine{
+    text-align: center;
+    width: 708px;
+    height: 507px;
+
+}
+
